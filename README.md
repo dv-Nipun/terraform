@@ -1,5 +1,5 @@
-# terraform
-Terraform AWS EC2 Instance Creation and Destruction
+# Terraform
+### Terraform AWS EC2 Instance Creation and Destruction
 
 This Terraform project automates the provisioning and deprovisioning of AWS EC2 instances. It allows you to easily create and destroy virtual machines on AWS using Infrastructure as Code (IaC) principles.
 # Prerequisites
